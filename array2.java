@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class array2 {
+public class Array2 {
     public static void main (String[] args)
 	{
 		Scanner read = new Scanner(System.in);
