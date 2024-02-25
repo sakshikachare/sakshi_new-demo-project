@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
-//import java.util.Hashset;
 import java.util.Scanner;
 
 public class Array4 {
